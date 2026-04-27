@@ -22,6 +22,7 @@ abn-assignment/
 ├── Places/               # The test app (SwiftUI)
 └── wikipedia-ios/        # The modified Wikipedia app
 ```
+<img width="2475" height="1537" alt="Screenshot 2026-04-27 at 15 52 12" src="https://github.com/user-attachments/assets/2674d696-40ad-4558-afb8-d31252927abe" />
 
 ---
 
